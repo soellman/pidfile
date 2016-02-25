@@ -1,0 +1,2 @@
+# pidfile
+pidfiles for golang
